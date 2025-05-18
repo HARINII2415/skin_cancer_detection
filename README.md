@@ -6,10 +6,6 @@
   <img src="https://img.shields.io/badge/Status-Live-brightgreen?style=for-the-badge" />
 </p>
 
-<p align="center">
-  <img src="https://github.com/HARINII2415/skin-disease-ai/blob/main/demo.gif" alt="App Demo" width="70%" />
-</p>
-
 ---
 
 ## 🌐 Live Demo
